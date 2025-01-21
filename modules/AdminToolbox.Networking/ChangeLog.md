@@ -218,3 +218,4 @@
 * **2.18.67** CI Maintenance Release
 * **2.18.68** CI Maintenance Release
 * **2.18.69** CI Maintenance Release
+* **2.18.70** CI Maintenance Release
